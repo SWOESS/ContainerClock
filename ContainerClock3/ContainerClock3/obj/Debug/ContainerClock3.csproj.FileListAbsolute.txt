@@ -1,0 +1,12 @@
+c:\users\shamaim wöss\documents\visual studio 2015\Projects\ContainerClock3\ContainerClock3\bin\Debug\ContainerClock3.exe.config
+C:\Users\Shamaim Wöss\Documents\Visual Studio 2015\Projects\ContainerClock3\ContainerClock3\bin\Debug\ContainerClock3.exe
+C:\Users\Shamaim Wöss\Documents\Visual Studio 2015\Projects\ContainerClock3\ContainerClock3\bin\Debug\ContainerClock3.pdb
+C:\Users\Shamaim Wöss\Documents\Visual Studio 2015\Projects\ContainerClock3\ContainerClock3\obj\Debug\ContainerClock3.csprojResolveAssemblyReference.cache
+C:\Users\Shamaim Wöss\Documents\Visual Studio 2015\Projects\ContainerClock3\ContainerClock3\obj\Debug\ContainerClock3.Form1.resources
+C:\Users\Shamaim Wöss\Documents\Visual Studio 2015\Projects\ContainerClock3\ContainerClock3\obj\Debug\ContainerClock3.Properties.Resources.resources
+C:\Users\Shamaim Wöss\Documents\Visual Studio 2015\Projects\ContainerClock3\ContainerClock3\obj\Debug\ContainerClock3.csproj.GenerateResource.Cache
+C:\Users\Shamaim Wöss\Documents\Visual Studio 2015\Projects\ContainerClock3\ContainerClock3\obj\Debug\ContainerClock3.exe
+C:\Users\Shamaim Wöss\Documents\Visual Studio 2015\Projects\ContainerClock3\ContainerClock3\obj\Debug\ContainerClock3.pdb
+C:\Users\Shamaim Wöss\Source\Repos\ContainerClock\ContainerClock3\ContainerClock3\bin\Debug\ContainerClock3.exe.config
+C:\Users\Shamaim Wöss\Source\Repos\ContainerClock\ContainerClock3\ContainerClock3\obj\Debug\ContainerClock3.exe
+C:\Users\Shamaim Wöss\Source\Repos\ContainerClock\ContainerClock3\ContainerClock3\obj\Debug\ContainerClock3.pdb
